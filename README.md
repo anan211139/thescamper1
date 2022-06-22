@@ -1,5 +1,5 @@
 # Varuna crop classification Hackathon
-   We use the Catboost model to classify crops from the Sentinel-2 satellite. Initially, we explored data from QGIS software. The concept of the model is to use the time series of the median NDVI Index to analyze the period of the planting cycle. 
+   We use the Catboost model to classify crops from the Sentinel-2 satellite. Initially, we explored data from QGIS software. The concept of the model is to use the time series of the median NDVI Index to analyze and classify the period of the planting cycle. 
 # Data Data Acquisition
    The data filted from at most 15% percentage of the cloud in each day and then we split satellite images to small crops from vector data(.shp file).  
 # Preprocess
