@@ -6,5 +6,7 @@
    NDVI_remove_cloud.ipynb - Calculated NDVI from band 4 and band NIR\
    Clip_vector.py - Crop Aoi to images\
    Preprocess.ipynb - The process is continued after we acquire the EVI value from each field in the picture
+   All data and preprocess file with detail can be downloaded from here
+   https://drive.google.com/drive/u/0/folders/1lvnMZit9gLAIJOdRBzxBo4DTGd4hIX8h
 # Model
    Catboost.ipynb - Catboost model
