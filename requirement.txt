@@ -1,0 +1,5 @@
+rasterio
+geopandas
+scikit-learn
+catboost
+fiona
